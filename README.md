@@ -51,6 +51,4 @@ We welcome your help! If you have ideas or improvements, you can create a pull r
 
 This project is under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
-
-Feel free to adjust any section as needed!
+ 
